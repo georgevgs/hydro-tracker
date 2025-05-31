@@ -13,7 +13,7 @@ const Header: React.FC = () => {
           >
             <path d="M12 2C12 2 6 9 6 14a6 6 0 0 0 12 0c0-5-6-12-6-12z" />
           </svg>
-          <h1 className="text-xl font-bold">WaterTrack</h1>
+          <h1 className="text-xl font-bold">Hydro Tracker</h1>
         </div>
       </div>
     </header>
